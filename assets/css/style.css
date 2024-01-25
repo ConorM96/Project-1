@@ -24,11 +24,11 @@ h1 {
 
 /* Header */
 header {
-    background-color: lightgreen;
+    background-color: green;
 }
 /* Main content */
 main {
-    background-color: lightblue;
+    background-color: lightgreen;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
 }
