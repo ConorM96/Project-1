@@ -25,7 +25,7 @@ h1 {
 
 /* Header */
 header {
-    background-color: gray;
+    background-color: grey;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -35,6 +35,20 @@ header {
 
 header a {
     text-decoration: none;
+    color: inherit;
+}
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
+#menu > li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
 }
 
 /* Main content */
