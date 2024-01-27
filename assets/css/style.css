@@ -18,14 +18,9 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
-h1 {
-    font-family: 'Fjalla-One', sans-serif;
-    color: #ffffff;
-}
-
 /* Header */
 header {
-    background-color: grey;
+    background-color: #ffffff;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -40,6 +35,14 @@ header a {
     text-decoration: none;
     color: inherit;
 }
+
+h1 {
+    font-family: 'Fjalla-One', sans-serif;
+    color: darkslategrey;
+    text-transform: uppercase;
+    letter-spacing: .7px;
+}
+
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
@@ -54,10 +57,12 @@ header a {
     border-bottom: 1px solid #3a3a3a;
 }
 
+
+
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: grey;
+    background-color: #ffffff;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -84,8 +89,35 @@ main {
     background-color: lightskyblue;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
+    margin-top: 40px;
 }
+
 /* Footer */
 footer {
     background-color: darkcyan;
 }
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu > li {
+        padding-left: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+}
+
