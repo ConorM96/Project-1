@@ -18,7 +18,7 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4{
     font-family: 'Fjalla-One', sans-serif;
     color: darkslategrey;
     text-transform: uppercase;
@@ -92,7 +92,7 @@ main {
 
 /* Hero Section */
 #hero {
-    height: 600px;
+    height: 700px;
     width: 100%;
     background: url(../images/woman-meditating-early-in-the-morning-overlooking-a-mountain-scenery-free-photo.webp) no-repeat center center/cover;
     position: relative;
@@ -110,8 +110,12 @@ main {
     padding-bottom: 0px;
 }
 
-#cover-text h2, #cover-text h3 {
+#cover-text h2, #cover-text h3, #cover-text h4 {
     color: #ffffff;
+}
+
+.list {
+    list-style-type: ;
 }
 
 /* Footer */
