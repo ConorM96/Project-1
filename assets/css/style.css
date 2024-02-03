@@ -114,8 +114,15 @@ main {
     color: #ffffff;
 }
 
-.list {
-    list-style-type: ;
+/* Reasons section */
+#reasons {
+    width: 90%;
+    margin: 20px auto;
+}
+
+#meditation-techniques {
+    margin: 20px auto;
+    left: 10px;
 }
 
 /* Footer */
