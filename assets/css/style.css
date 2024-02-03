@@ -84,7 +84,6 @@ nav {
 
 /* Main content */
 main {
-    background-color: lightskyblue;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 40px;
@@ -120,10 +119,31 @@ main {
     margin: 20px auto;
 }
 
-#meditation-techniques {
-    margin: 20px auto;
-    left: 10px;
+#meditation-benefits > h2 {
+    margin-bottom: 20px;
+    font-size: 180%;
+    text-align: center;
 }
+
+#reasons h3 , #reasons p {
+    text-align: center;
+}
+
+#meditation-techniques > h2 {
+    font-size: 180%;
+}
+
+#meditation-benefits > div,
+#meditation-techniques > div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#reasons p {
+    padding: 0 20px;
+}
+
+
 
 /* Footer */
 #social-networks {
@@ -173,11 +193,38 @@ main {
         /* Push main content down to accommodate larger header */
         margin-top: 77px;
     }
+
     /* Hero */
     #cover-text {
         width: 400px;
         right: 30px;
     }
+
+    /* Meditation section */
+    #meditation-benefits > h2 {
+        margin-bottom: 20px;
+        font-size: 180%;
+        align-self: center;
+    }
+
+    #meditation-benefits {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        align-self: center;
+    }
+
+    #meditation-benefits > div {
+        width: 75%;
+        align-self: center;
+    }
+
+    #meditation-techniques > div {
+        text-align: end;
+        align-self: flex-end;
+    }
+
+    
 }
 
 /* Media query: tablets and larger (992px and up) */
@@ -185,4 +232,9 @@ main {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
     }
+
+    #meditation-benefits > h2 {
+        text-align: center;
+    }
+    
 }
