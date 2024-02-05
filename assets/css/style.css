@@ -125,6 +125,12 @@ main {
     text-align: center;
 }
 
+#meditation-logo {
+    background: url(../images/meditate-cartoon-image.jpg) no-repeat center center/cover;
+    height: 500px;
+    width: 100%;
+}
+
 #reasons h3 , #reasons p {
     text-align: center;
 }
@@ -182,6 +188,7 @@ main {
     .nav-toggle-label {
         display: none;
     }
+
     #logo {
         font-size: 280%;
         line-height: 75px;
@@ -217,11 +224,6 @@ main {
     #meditation-benefits > div {
         width: 75%;
         align-self: center;
-    }
-
-    #meditation-techniques > div {
-        text-align: end;
-        align-self: flex-end;
     }
 
     
