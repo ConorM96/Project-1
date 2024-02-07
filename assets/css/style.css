@@ -89,6 +89,16 @@ main {
     margin-top: 40px;
 }
 
+main h1 {
+    color: darkblue;
+    text-align: center;
+}
+img {
+    position: relative;
+    height: 200px;
+    width: 400px;
+}
+
 /* Hero Section */
 #hero {
     height: 700px;
@@ -122,9 +132,14 @@ main {
     margin: 20px auto;
 }
 
-#meditation-benefits > h2 {
+#meditation-benefits  h2 {
     margin-bottom: 10px;
-    font-size: 180%;
+    font-size: 150%;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#meditation-benefits h3, #meditation-benefits p {
     text-align: center;
 }
 
@@ -140,7 +155,7 @@ main {
 }
 
 #meditation-techniques > h2 {
-    font-size: 180%;
+    font-size: 150%;
     margin-bottom: 10px;
 }
 
@@ -161,8 +176,10 @@ div h3 {
 }
 
 div p {
+    padding-top: 10px;
     padding-left: 10px;
     padding-right: 10px;
+    font-size: 140%;
 }
 
 #yoga-logo {
@@ -225,6 +242,22 @@ div p {
         margin-top: 77px;
     }
 
+    div p {
+        padding-top: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 140%;
+    }
+
+    img {
+        width: 300px;
+        height: 150px;
+        position: relative;
+        top: 50%;
+        right: 50%;
+        left: 28%;
+    }
+
     /* Hero */
     #cover-text {
         width: 400px;
@@ -274,5 +307,20 @@ div p {
     #yoga-logo {
         height: 700px;
         width: 100%;
+    }
+
+    main h1 {
+        text-align: center;
+        color: darkblue;
+        font-size: 250%;
+    }
+
+    img {
+        width: 700px;
+        height: 400px;
+        position: relative;
+        top: 50%;
+        right: 50%;
+        left: 28%;
     }
 }
