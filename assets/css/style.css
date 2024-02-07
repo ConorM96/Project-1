@@ -99,7 +99,7 @@ main {
 
 #cover-text {
     /* Final rgba value sets the opacity so it's semi transparent */
-    background-color: rgba(173, 216, 230, .6);
+    background-color: rgba(70, 200, 243, 0.9);
     position: absolute;
     top: 5%;
     width: 80%;
@@ -108,8 +108,11 @@ main {
     padding-top: 10px;
     padding-bottom: 0px;
 }
-
-#cover-text h2, #cover-text h3, #cover-text h4 {
+#cover-text h3 {
+    font-size: 120%;
+    padding: 0;
+}
+#cover-text h1, #cover-text h2, #cover-text h3, #cover-text h4 {
     color: #ffffff;
 }
 
@@ -132,13 +135,18 @@ main {
     margin-top: 30px;
 }
 
-#reasons-mediation h3 , #reasons-meditation p {
+#reasons-meditation p {
     text-align: center;
 }
 
 #meditation-techniques > h2 {
     font-size: 180%;
     margin-bottom: 10px;
+}
+
+#meditation-techniques li {
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 #meditation-benefits > div,
@@ -163,6 +171,9 @@ div p {
     width: 100%;
 }
 
+#reasons-yoga h2 {
+    font-size: 180%;
+}
 
 /* Footer */
 #social-networks {
