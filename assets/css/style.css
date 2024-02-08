@@ -222,7 +222,7 @@ div p {
 #social-networks i {
     font-size: 170%;
     padding: 5%;
-    color: darkslategray;
+    color: black;
 }
 
 /* Media query: tablets and larger (768px and up) */
@@ -323,6 +323,17 @@ div p {
     #meditation-benefits > h2 {
         text-align: center;
     }
+    #meditation-benefits h3 {
+        text-align: left;
+        font-size: 135%;
+        padding-top: 20px;
+    }
+
+    #meditation-benefits p {
+        padding-top: 25px;
+        text-align: left;
+    }
+
     #meditation-logo {
         background: url(../images/meditate-cartoon-image.jpg) no-repeat center center/cover;
         height: 700px;
