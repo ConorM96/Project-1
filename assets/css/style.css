@@ -149,8 +149,16 @@ img {
     padding-left: 10px;
     padding-right: 10px;
 }
+
 #meditation-benefits h3, #meditation-benefits p {
     text-align: center;
+}
+
+#meditation-video h3 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    color: red;
 }
 
 #meditation-logo {
@@ -297,6 +305,13 @@ div p {
         height: 600px;
         width: 100%;
     }
+
+    iframe {
+        width: 100%;
+        height: 400px;
+        padding-left: 150px;
+        padding-right: 150px;
+    }
 }
 
 /* Media query: tablets and larger (992px and up) */
@@ -332,5 +347,12 @@ div p {
         top: 50%;
         right: 50%;
         left: 28%;
+    }
+
+    iframe {
+        width: 100%;
+        height: 500px;
+        padding-left: 150px;
+        padding-right: 150px;
     }
 }
