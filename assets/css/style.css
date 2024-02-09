@@ -18,7 +18,7 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
-h1, h2, h3, h4{
+h1, h2, h3, h4 {
     font-family: 'Fjalla-One', sans-serif;
     color: darkslategrey;
     text-transform: uppercase;
@@ -36,6 +36,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+    font-size: 90%;
 }
 
 header a {
@@ -86,7 +87,7 @@ nav {
 main {
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
-    margin-top: 40px;
+    margin-top: 39px;
 }
 
 main h1 {
@@ -97,7 +98,8 @@ main h1 {
 img {
     position: relative;
     height: 200px;
-    width: 400px;
+    width: 285px;
+    justify-content: center;
 }
 
 /* Hero Section */
@@ -272,7 +274,6 @@ div p {
     }
 
     #logo {
-        font-size: 280%;
         line-height: 75px;
         margin: 0 0.5rem;
     }
@@ -280,7 +281,7 @@ div p {
     /* Main content */
     main {
         /* Push main content down to accommodate larger header */
-        margin-top: 77px;
+        margin-top: 75px;
     }
 
     div p {
@@ -311,11 +312,22 @@ div p {
         align-self: center;
     }
 
+    #meditation-benefits h3 {
+        text-align: left;
+        font-size: 135%;
+        padding-top: 20px;
+    }
+
+    #meditation-benefits p {
+        padding-top: 25px;
+        text-align: left;
+    }
+
     #meditation-benefits {
         display: flex;
         flex-direction: column;
         width: 100%;
-        align-self: center;
+        
     }
 
     #meditation-benefits > div {
