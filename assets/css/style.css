@@ -175,9 +175,8 @@ img {
     padding-right: 10px;
 }
 
-
-
-#meditation-video h3 {
+#meditation-video h3,
+#yoga-video h3 {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 15px;
@@ -185,7 +184,8 @@ img {
 }
 
 
-#meditation-benefits > div,{
+#meditation-benefits > div,
+#yoga-benefits > div {
     line-height: 20px;
     margin-bottom: 20px;
 }
@@ -200,16 +200,6 @@ div p {
     padding-left: 10px;
     padding-right: 10px;
     font-size: 140%;
-}
-
-#yoga-logo {
-    background: url(../images/fitness-yoga-class-stretching-exercise-with-women-together-health-wellness-instructor-diversity-group-pilates-studio-holistic-workout-mental-health-balance-zen-mind-copy-jpg.webp) no-repeat center center/cover;
-    height: 300px;
-    width: 100%;
-}
-
-#reasons-yoga h2 {
-    font-size: 180%;
 }
 
 /* Footer */
@@ -282,38 +272,38 @@ div p {
     }
 
     /* Meditation section */
-    #meditation-benefits > h2 {
+    #meditation-benefits h2,
+    #yoga-benefits h2 {
         margin-bottom: 20px;
         font-size: 180%;
         align-self: center;
     }
 
-    #meditation-benefits h3 {
+    #meditation-benefits h3,
+    #yoga-benefits h3 {
         text-align: left;
         font-size: 135%;
         padding-top: 20px;
     }
 
-    #meditation-benefits p {
+    #meditation-benefits p,
+    #yoga-benefits p {
         padding-top: 25px;
         text-align: left;
     }
 
-    #meditation-benefits {
+    #meditation-benefits,
+    #yoga-benefits {
         display: flex;
         flex-direction: column;
         width: 100%;
         
     }
 
-    #meditation-benefits > div {
+    #meditation-benefits > div,
+    #yoga-benefits > div {
         width: 75%;
         align-self: center;
-    }
-
-    #yoga-logo {
-        height: 600px;
-        width: 100%;
     }
 
     iframe {
@@ -351,10 +341,6 @@ div p {
         padding-top: 25px;
         text-align: left;
     }
-
-
-
-
 
     img {
         width: 100%;
