@@ -95,15 +95,6 @@ main h1 {
     text-align: center;
 }
 
-/* Image section */
-img {
-    position: relative;
-    height: 270px;
-    width: 100%;
-    padding-left: 15px;
-    padding-right: 15px;
-}
-
 /* Hero Section */
 #hero {
     height: 700px;
@@ -165,6 +156,15 @@ img {
     color: #ffffff;
 }
 
+/* Image section */
+img {
+    position: relative;
+    height: 250px;
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
 /* Reasons Meditation section */
 #reasons-meditation {
     width: 90%;
@@ -206,6 +206,7 @@ div h3 {
 }
 
 div p {
+    padding-bottom: 20px;
     padding-top: 10px;
     padding-left: 10px;
     padding-right: 10px;
