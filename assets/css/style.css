@@ -95,9 +95,10 @@ main h1 {
     text-align: center;
 }
 
+/* Image section */
 img {
     position: relative;
-    height: 300px;
+    height: 270px;
     width: 100%;
 }
 
@@ -132,6 +133,7 @@ img {
 #about-us  {
     padding-top: 10px;
     padding-left: 10px;
+    font-size: 120%;
 }
 
 #about-us h3 {
@@ -156,6 +158,7 @@ img {
     font-size: 120%;
     padding: 0;
 }
+
 #cover-text h1, #cover-text h2, #cover-text h3, #cover-text h4 {
     color: #ffffff;
 }
@@ -166,7 +169,7 @@ img {
     margin: 20px auto;
 }
 
-#meditation-benefits  h2,
+#meditation-benefits h2,
 #yoga-benefits h2 {
     margin-bottom: 10px;
     font-size: 150%;
@@ -183,6 +186,11 @@ img {
     color: red;
 }
 
+/* Youtube video section for small screens */
+iframe {
+    width: 100%;
+    height: 200px;
+}
 
 #meditation-benefits > div,
 #yoga-benefits > div {
@@ -257,7 +265,8 @@ div p {
         padding-right: 10px;
         font-size: 140%;
     }
-
+    
+    /* Image section for tablet screens and larger */
     img {
         width: 100%;
         height: 400px;
@@ -297,7 +306,6 @@ div p {
         display: flex;
         flex-direction: column;
         width: 100%;
-        
     }
 
     #meditation-benefits > div,
@@ -305,7 +313,8 @@ div p {
         width: 75%;
         align-self: center;
     }
-
+    
+    /* Youtube video section for tablet screens and larger */
     iframe {
         width: 100%;
         height: 400px;
@@ -342,17 +351,19 @@ div p {
         text-align: left;
     }
 
+    /* Image section for tablet/desktop screens and larger */
     img {
         width: 100%;
-        height:600px;
+        height: 700px;
         position: relative;
         top: 50%;
         padding-bottom: 30px;
     }
 
+    /* Youtube video section for tablet/desktop screens and larger */
     iframe {
         width: 100%;
-        height: 500px;
+        height: 400px;
         padding-left: 150px;
         padding-right: 150px;
     }
