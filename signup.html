@@ -37,7 +37,40 @@
     </header>
 
     <!-- Main content -->
-    <main>Main content</main>
+    <main>
+        <section id="beach">
+            <section id="sign-up">
+              <!-- Sign up format taken from 'Code Institutes Love Running' -->
+              <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
+                    <h2>Get signed up today!</h2>
+                    <label for="first_name">First Name</label>
+                    <input type="text" name="first_name" id="first_name" class="text-input" required>
+                    <br>
+                    <label for="last_name">Last Name</label>
+                    <input type="text" name="last_name" id="last_name" class="text-input" required>
+                    <br>
+                    <label for="email_address">Email Address</label>
+                    <input type="email" name="email_address" id="email_address" class="text-input" required>
+                    <br>
+                    <div class="radio-buttons">
+                        <div>
+                           <label for="Meditation">Meditation</label>
+                           <input type="radio" name="class_preference" id="meditation" value="mediation" required checked>
+                        </div>
+                        <div>
+                           <label for="yoga">Yoga</label>
+                           <input type="radio" name="class_preference" id="yoga" value="yoga" required checked>
+                        </div>
+                        <div>
+                           <label for="both">Both</label>
+                           <input type="radio" name="class_preference" id="both" value="both" required checked>
+                        </div>
+                    </div>
+                   <button type="submit" class="select-button">Complete Form</button>
+                </form>
+            </section>
+        </section>
+    </main>
 
     <!-- Footer -->
     <footer>
