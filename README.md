@@ -49,3 +49,19 @@ The main purpose of this website is to attract new customers who are looking to 
   ### <li> Meditation Tutorial
    ![meditation video](assets/images/meditation-video.jpg)
 This short clip will give the customer a better idea as to how to meditate and what to expect when they come to a class.
+<hr>
+
+## Yoga Page 
+### <li> Yoga Image
+ ![yoga image](assets/images/yoga-image.jpg)
+ When the customer opens the Yoga page they will see a group of Women taking part in a yoga class.
+
+ ### <li> Yoga Benefits List
+ ![yoga benefits](assets/images/yoga-list.jpg)
+ This list of yoga health benefits will entice the customer into wanting to learn more about yoga.
+
+ ### <li> Yoga Tutorial
+ ![yoga video](assets/images/yoga-video.jpg)
+ This 5 minute morning yoga video is a good demonstration for beginners as to what yoga is and how simple and effective it is.
+
+ 
