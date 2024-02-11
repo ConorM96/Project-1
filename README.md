@@ -37,4 +37,15 @@ The main purpose of this website is to attract new customers who are looking to 
  ### <li> Footer
  The footer contains social media logos which are as external links.
 
+## Meditation Page
+### <li> Meditation Image 
+ ![meditation image](assets/images/meditation-image.jpg)
+ When the customer opens the meditation page they will see this image of a woman who is meditating by the beach.
 
+ ### <li> Meditation Benefits List
+  ![meditation benefits](assets/images/meditation-list.jpg)
+  This list of health benefits will educate and entice the customer into digging a bit deeper into the benefits of meditation.
+
+  ### <li> Meditation Tutorial
+   ![meditation video](assets/images/meditation-video.jpg)
+This short clip will give the customer a better idea as to how to meditate and what to expect when they come to a class.
