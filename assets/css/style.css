@@ -90,11 +90,6 @@ main {
     margin-top: 39px;
 }
 
-main h1 {
-    color: lightblue;
-    text-align: center;
-}
-
 /* Hero Section */
 #hero {
     height: 700px;
@@ -185,7 +180,7 @@ img {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 15px;
-    color: red;
+    color: black;
 }
 
 /* Youtube video section for small screens */
