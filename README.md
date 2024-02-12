@@ -66,7 +66,8 @@ The main purpose of this website is to attract new customers who are looking to 
  <li> This 5 minute morning yoga video is a good demonstration for beginners as to what yoga is and how simple and effective it is.
 
 ## Sign Up Page
-![signup-form](assets/images/signup-form.jpg)
+![signup form](assets/images/signup-form.jpg)
+<li> This page allows customers to sign up for some mindfulness classes. The customer has the option of Meditation, Yoga or both.
 
 
  
