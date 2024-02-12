@@ -40,30 +40,36 @@ The main purpose of this website is to attract new customers who are looking to 
 ## Meditation Page
 ### Meditation Image 
  ![meditation image](assets/images/meditation-image.jpg)
- <li> When the customer opens the meditation page they will see this image of a woman who is meditating by the beach.
+ <li> When the customer opens the meditation page they will see this image of a woman who is meditating by the beach. <br>
+ <li> Reference: Meditation page image taken from "https://www.verywellmind.com/what-is-meditation-2795927" 
 
- ### Meditation Benefits List
+### Meditation Benefits List
   ![meditation benefits](/assets/images/meditation-list.jpg)
   <li> This list of health benefits will educate and entice the customer into digging a bit deeper into the benefits of meditation.
   <li> Reference: Meditation Benefits List taken from "https://www.forbes.com/health/mind/benefits-of-meditation/"
 
-  ### Meditation Tutorial
+### Meditation Tutorial
    ![meditation video](assets/images/meditation-video.jpg)
-<li> This short clip will give the customer a better idea as to how to meditate and what to expect when they come to a class.
+ <li> This short clip will give the customer a better idea as to how to meditate and what to expect when they come to a class.
+<li>Youtube video "How to meditate", "https://www.youtube.com/watch?v=oq6j9uWrcfg" by creator 'Lavendaire'.
 <hr>
 
 ## Yoga Page 
 ### Yoga Image
  ![yoga image](assets/images/yoga-image.jpg)
  <li> When the customer opens the Yoga page they will see a group of Women taking part in a yoga class.
+ <li> Reference: Yoga page image taken from "https://www.yogabasics.com/practice/meditation-basics/yoga-before-meditation/"
 
  ### Yoga Benefits List
  ![yoga benefits](assets/images/yoga-list.jpg)
  <li> This list of yoga health benefits will entice the customer into wanting to learn more about yoga.
+ <li> Reference: Yoga benefits list taken from "https://www.hopkinsmedicine.org/health/wellness-and-prevention/9-benefits-of-yoga".
+
 
  ### Yoga Tutorial
  ![yoga video](assets/images/yoga-video.jpg)
  <li> This 5 minute morning yoga video is a good demonstration for beginners as to what yoga is and how simple and effective it is.
+ <li> Reference: Youtube video "5 Minute Morning Yoga - Daily Stretching Routine" "https://www.youtube.com/watch?v=lBYbeDx-jiw" by creator 'Yoga with Kassandra'.
 
 ## Sign Up Page
  ![signup form](assets/images/signup-form.jpg)
