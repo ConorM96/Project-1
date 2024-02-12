@@ -20,48 +20,54 @@ The main purpose of this website is to attract new customers who are looking to 
  
  ## Landing Page
  ![landing page/nav](assets/images/home-image.jpg)
- ### <li> Navigation 
- The navigation bar is in the header and can be found across all four pages of the website. It includes links to Home, Meditation, Yoga and the Sign Up page.
+ ### Navigation 
+ <li> The navigation bar is in the header and can be found across all four pages of the website. It includes links to Home, Meditation, Yoga and the Sign Up page.
 
- ### <li> Landing Page Image
- The landing page image is of a person meditating looking out at a magnificent world. It's to give the customer a feeling of positivity and zen.
+ ### Landing Page Image
+ <li> The landing page image is of a person meditating looking out at a magnificent world. It's to give the customer a feeling of positivity and zen.
 
- ### <li> Landing Page Welcome Message
+ ### Landing Page Welcome Message
  ![welcome message](assets/images/welcome-message.jpg)
- The welcome message gives an insight into Mindfulness activities and invites people of all ages to come and book a class.
+ <li> The welcome message gives an insight into Mindfulness activities and invites people of all ages to come and book a class.
 
- ### <li> About Us (contact info) 
+ ### About Us (contact info) 
  ![about us info](assets/images/about-us-info.jpg)
- This provides the customer with all the information they need regarding opening/closing times and contact details and address.
+ <li> This provides the customer with all the information they need regarding opening/closing times and contact details and address.
 
- ### <li> Footer
- The footer contains social media logos which are as external links.
+ ### Footer
+ <li> The footer contains social media logos which are as external links.
 
 ## Meditation Page
-### <li> Meditation Image 
+### Meditation Image 
  ![meditation image](assets/images/meditation-image.jpg)
- When the customer opens the meditation page they will see this image of a woman who is meditating by the beach.
+ <li> When the customer opens the meditation page they will see this image of a woman who is meditating by the beach.
 
- ### <li> Meditation Benefits List
-  ![meditation benefits](assets/images/meditation-list.jpg)
-  This list of health benefits will educate and entice the customer into digging a bit deeper into the benefits of meditation.
+ ### Meditation Benefits List
+  ![meditation benefits](/assets/images/meditation-list.jpg)
+  <li> This list of health benefits will educate and entice the customer into digging a bit deeper into the benefits of meditation.
+  <li> Reference: Meditation Benefits List taken from "https://www.forbes.com/health/mind/benefits-of-meditation/"
 
-  ### <li> Meditation Tutorial
+  ### Meditation Tutorial
    ![meditation video](assets/images/meditation-video.jpg)
-This short clip will give the customer a better idea as to how to meditate and what to expect when they come to a class.
+<li> This short clip will give the customer a better idea as to how to meditate and what to expect when they come to a class.
 <hr>
 
 ## Yoga Page 
-### <li> Yoga Image
+### Yoga Image
  ![yoga image](assets/images/yoga-image.jpg)
- When the customer opens the Yoga page they will see a group of Women taking part in a yoga class.
+ <li> When the customer opens the Yoga page they will see a group of Women taking part in a yoga class.
 
- ### <li> Yoga Benefits List
+ ### Yoga Benefits List
  ![yoga benefits](assets/images/yoga-list.jpg)
- This list of yoga health benefits will entice the customer into wanting to learn more about yoga.
+ <li> This list of yoga health benefits will entice the customer into wanting to learn more about yoga.
 
- ### <li> Yoga Tutorial
+ ### Yoga Tutorial
  ![yoga video](assets/images/yoga-video.jpg)
- This 5 minute morning yoga video is a good demonstration for beginners as to what yoga is and how simple and effective it is.
+ <li> This 5 minute morning yoga video is a good demonstration for beginners as to what yoga is and how simple and effective it is.
+
+<hr>
+
+## Testing
+
 
  
