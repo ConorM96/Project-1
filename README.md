@@ -123,4 +123,8 @@ HTML/CSS
 ### iFrames
 <li> Youtube video "How to meditate", "https://www.youtube.com/watch?v=oq6j9uWrcfg" by creator 'Lavendaire'.
 <li> Youtube video "5 Minute Morning Yoga - Daily Stretching Routine" "https://www.youtube.com/watch?v=lBYbeDx-jiw" by creator 'Yoga with Kassandra'.
- 
+ <hr>
+
+ ## Acknowledgements 
+ <li> My Mentor, Marcel, for his feedback and advice.
+ <li> Code Institute Tutor Support Team, for answering queries I had during the process.
