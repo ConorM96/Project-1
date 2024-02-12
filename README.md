@@ -99,7 +99,7 @@ HTML/CSS
 <li> HTML5
 <li> CSS3
 
-### Frameworks, Libraries and Programs Used
+### Libraries and Programs Used
 
 [TinyPNG](https://tinypng.com/) was used to optimise an image for the web.<br>
 [Font Awesome](https://fontawesome.com/) icons where used to improve visual representation. <br>
@@ -111,7 +111,16 @@ HTML/CSS
 [Chrome Devtools](https://developer.chrome.com/docs/devtools) was used to isolate pieces of code and review and test.
 <hr>
 
+## Credits
+### Images 
+<li> Meditation page image taken from "https://www.verywellmind.com/what-is-meditation-2795927"
+<li> Yoga page image taken from "https://www.yogabasics.com/practice/meditation-basics/yoga-before-meditation/"
 
+### Content (Benefits List)
+<li> Meditation Benefits List taken from "https://www.forbes.com/health/mind/benefits-of-meditation/".
+<li> Yoga benefits list taken from "https://www.hopkinsmedicine.org/health/wellness-and-prevention/9-benefits-of-yoga".
 
-
+### iFrames
+<li> Youtube video "How to meditate", "https://www.youtube.com/watch?v=oq6j9uWrcfg" by creator 'Lavendaire'.
+<li> Youtube video "5 Minute Morning Yoga - Daily Stretching Routine" "https://www.youtube.com/watch?v=lBYbeDx-jiw" by creator 'Yoga with Kassandra'.
  
