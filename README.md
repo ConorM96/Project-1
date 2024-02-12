@@ -66,8 +66,31 @@ The main purpose of this website is to attract new customers who are looking to 
  <li> This 5 minute morning yoga video is a good demonstration for beginners as to what yoga is and how simple and effective it is.
 
 ## Sign Up Page
-![signup form](assets/images/signup-form.jpg)
+ ![signup form](assets/images/signup-form.jpg)
 <li> This page allows customers to sign up for some mindfulness classes. The customer has the option of Meditation, Yoga or both.
 
+ <hr>
+
+ ## Testing
+### Device Compatibility
+<li>This website has been tested on a MacBook Pro 14, No responsiveness, functionality or appearance issues found.
+
+<li>This website has been tested on a iPhone 12 pro, No responsiveness, functionality or appearance issues found.
+
+<li>This website has been tested on a iPhone 12 pro, No responsiveness, functionality or appearance issues found.
+
+<li>This website has been tested on a pixel 7, No responsiveness, functionality or appearance issues found.
+
+<li>This website has been tested on a iPad, No responsiveness, functionality or appearance issues found.
+
+### Browser Compatibility
+<li> This website was tested on Google Chrome, No responsiveness, functionality or appearance issues found.
+<li> This website was tested on Safari, No responsiveness, functionality or appearance issues found.
+
+### Code Validation 
+HTML/CSS
+<li> All pages have been put through WC3 Markup Validaton, no errors found.
+<li> Unfixed- 1 warning: "Section lacks heading. Consider h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed."
+<li> All CSS have have been put through WC3 CSS validator, No errors or warnings found.
 
  
