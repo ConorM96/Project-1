@@ -89,8 +89,29 @@ The main purpose of this website is to attract new customers who are looking to 
 
 ### Code Validation 
 HTML/CSS
-<li> All pages have been put through WC3 Markup Validaton, no errors found.
+<li> All pages have been put through WC3 MarkupValidaton, no errors found.
 <li> Unfixed- 1 warning: "Section lacks heading. Consider h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed."
 <li> All CSS have have been put through WC3 CSS validator, No errors or warnings found.
+<hr>
+
+## Technologies Used
+### Languages Used
+<li> HTML5
+<li> CSS3
+
+### Frameworks, Libraries and Programs Used
+
+[TinyPNG](https://tinypng.com/) was used to optimise an image for the web.<br>
+[Font Awesome](https://fontawesome.com/) icons where used to improve visual representation. <br>
+[Google Fonts](https://fonts.google.com/) was used to primary and back up fonts. <br>
+[WC3 Markup Validator](https://validator.w3.org/#validate_by_input) was used to validate any HTML. <br>
+[WC3 CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used to validate any CSS. <br>
+[GitPod](https://www.gitpod.io/) was used to write code.<br>
+[GitHub](https://github.com/) was used to store code. <br>
+[Chrome Devtools](https://developer.chrome.com/docs/devtools) was used to isolate pieces of code and review and test.
+<hr>
+
+
+
 
  
