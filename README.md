@@ -65,9 +65,8 @@ The main purpose of this website is to attract new customers who are looking to 
  ![yoga video](assets/images/yoga-video.jpg)
  <li> This 5 minute morning yoga video is a good demonstration for beginners as to what yoga is and how simple and effective it is.
 
-<hr>
-
-## Testing
+## Sign Up Page
+![signup-form](assets/images/signup-form.jpg)
 
 
  
