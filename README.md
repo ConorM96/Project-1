@@ -99,6 +99,8 @@ HTML/CSS
 <li> Unfixed- 1 warning: "Section lacks heading. Consider h2-h6 elements to add identifying headings to all sections, or else use a div element instead for any cases where no heading is needed."
 <li> All CSS have have been put through WC3 CSS validator, No errors or warnings found.
 <hr>
+<li> Most of the bugs I had to fix where from setting iframe width to "100%" and the height to "300px" in the tag element rather than in css styling.
+
 
 ## Technologies Used
 ### Languages Used
